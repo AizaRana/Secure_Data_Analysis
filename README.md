@@ -1,10 +1,10 @@
 # Secure_Data_Analysis
 Let's see what marks the data!
 
-**Global Cybersecurity Threats Analysis (2015–2024)**__
+**Global Cybersecurity Threats Analysis (2015–2024)**<br/>
 Dataset: https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024
 
-**Overview**__
+**Overview**<br/>
 This project analyzes global cybersecurity incidents from 2015 to 2024. The dataset contains information on:
 - Country
 - Year
@@ -17,17 +17,17 @@ This project analyzes global cybersecurity incidents from 2015 to 2024. The data
 - Defense Mechanism Used
 - Incident Resolution Time (in Hours)
 
-The aim is to understand trends, evaluate defense mechanisms, and highlight the most vulnerable countries and industries.
+The aim is to understand trends, evaluate defense mechanisms, and highlight the most vulnerable countries and industries.<br/>
 
-**Usage**__
+**Usage**<br/>
 Visualizations: Explore trends, correlations, and risk patterns.
 Defense Analysis: Compare effectiveness of different defense mechanisms.
 Risk Ranking: Identify high-risk countries or industries.
 
-**Tools Used**__
+**Tools Used**<br/>
 - Python (Pandas, NumPy)
 - Seaborn & Matplotlib (Visualization)
 - Scikit-learn (ML Models, Random Forest, Regression & Classification)
 
-**Conclusion**__
+**Conclusion**<br/>
 While predictive modeling was not feasible due to minimal statistical dependencies, the dataset provides valuable insights for descriptive analytics, risk assessment, and defense mechanism evaluation in cybersecurity.
